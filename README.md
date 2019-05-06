@@ -1,4 +1,4 @@
-# Data Structures hi.
+# Data Structures
 
 Topics:
  * Queues
