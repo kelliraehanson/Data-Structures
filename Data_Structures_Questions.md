@@ -3,7 +3,7 @@ Answer the following questions for each of the data structures you implemented a
 ## Queue
 
 1. What is the runtime complexity of `enqueue`? 
-Answer:  The runtime complexity of `lenqueue` is 0(n).
+Answer:  The runtime complexity of `enqueue` is 0(n).
 
 2. What is the runtime complexity of `dequeue`? 
 Answer:  The runtime complexity of `dequeue` is 0(1).
